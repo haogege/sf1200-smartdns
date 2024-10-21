@@ -38,8 +38,8 @@ function build_firmware(){
     need_gl_ui=$1
     ui_path=$2
 	# fix helloword build error
-    rm -rf feeds/packages/lang/golang
-    svn co https://github.com/openwrt/packages/tree/openwrt-18.06/lang/golang/golang feeds/packages/lang/golang
+    #rm -rf feeds/packages/lang/golang
+    #svn co https://github.com/openwrt/packages/tree/openwrt-18.06/lang/golang/golang feeds/packages/lang/golang
     #install feed 
     ./scripts/feeds update -a && ./scripts/feeds install -a && make defconfig
     #build 
