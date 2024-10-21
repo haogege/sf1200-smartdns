@@ -40,7 +40,7 @@ jobs:
     - name: make 
       run: |
         set -e
-        ./build.sh ~ ${{ inputs.device }} ${{ inputs.ui }}
+        sudo ./build.sh ~ ${{ inputs.device }} ${{ inputs.ui }}
     - name: show-files 
       run: |
         tree -L 3 ~/openwrt/bin/targets/
