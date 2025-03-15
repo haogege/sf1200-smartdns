@@ -25,7 +25,6 @@ jobs:
         run: |
           sudo mkdir -p /tmp/smartdns
           sudo chown $USER:$GROUPS /tmp/smartdns
-          rm -rf /tmp/smartdns/dnsmasq-china-list-master
           wget https://github.com/felixonmars/dnsmasq-china-list/archive/refs/heads/master.zip -O /tmp/smartdns/master.zip
           sudo unzip /tmp/smartdns/master.zip -d /tmp/smartdns/
 
