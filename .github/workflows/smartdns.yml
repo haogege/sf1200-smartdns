@@ -1,0 +1,48 @@
+name: SmartDNS
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Initialization environment
+        env:
+          DEBIAN_FRONTEND: noninteractive
+        run: |
+          sudo rm -rf /etc/apt/sources.list.d/* /usr/share/dotnet /usr/local/lib/android /opt/ghc
+          sudo -E apt-get -qq update
+          sudo -E apt-get -qq install wget curl unzip
+          sudo -E apt-get -qq autoremove --purge
+          sudo -E apt-get -qq clean
+          sudo timedatectl set-timezone Asia/Shanghai
+          
+      
+      - name: Download file
+        run: |
+          sudo mkdir -p /tmp/smartdns
+          sudo chown $USER:$GROUPS /tmp/smartdns
+          wget https://github.com/felixonmars/dnsmasq-china-list/archive/refs/heads/master.zip -O /tmp/smartdns/master.zip
+          sudo unzip /tmp/smartdns/master.zip -d /tmp/smartdns/
+      - name: Convert server to nameserver
+        run: |
+          cd /tmp/smartdns/dnsmasq-china-list-master
+          sudo make smartdns SERVER=cn
+      - name: Upload to release
+        uses: softprops/action-gh-release@v0.1.15
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: smartdns-release
+          files: |
+                 /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
+                 /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf
+
+      - name: Delete workflow runs
+        uses: pianranjinghong/delete-workflow-runs@main
+        with:
+          retain_days: 7
+          keep_minimum_runs: 7
