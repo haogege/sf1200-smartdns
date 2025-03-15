@@ -40,12 +40,18 @@ jobs:
           name: make-log
           path: /tmp/smartdns/dnsmasq-china-list-master/make.log
 
+      - name: Set version tag
+        id: set_version
+        run: |
+          VERSION=$(date +'%Y%m%d%H%M%S')  # 生成基于当前时间的版本号
+          echo "VERSION=${VERSION}" >> $GITHUB_ENV  # 将版本号设置为环境变量
+
       - name: Upload to release
         uses: softprops/action-gh-release@v0.1.15
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: smartdns-release
+          tag_name: smartdns-release-${{ env.VERSION }}  # 使用动态生成的版本号
           files: |
             /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
             /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf
