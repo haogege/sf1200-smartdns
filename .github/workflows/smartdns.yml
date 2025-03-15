@@ -55,15 +55,19 @@ jobs:
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add *.raw.txt *.smartdns.conf
-          git commit -m "Update SmartDNS files - version ${{ env.VERSION }}"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update SmartDNS files - version ${{ env.VERSION }}"
+            git push
+          else
+            echo "No changes to commit."
+          fi
 
       - name: Upload to release
         uses: softprops/action-gh-release@v0.1.15
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: smartdns-release  # 不使用动态生成的版本号
+          tag_name: smartdns-release
           files: |
             /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
             /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf
