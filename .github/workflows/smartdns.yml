@@ -1,14 +1,15 @@
-name: SmartDNS
 on:
   schedule:
     - cron: '30 21 * * *'
   workflow_dispatch:
+
 jobs:
   convert:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Initialization environment
         env:
           DEBIAN_FRONTEND: noninteractive
@@ -19,18 +20,27 @@ jobs:
           sudo -E apt-get -qq autoremove --purge
           sudo -E apt-get -qq clean
           sudo timedatectl set-timezone Asia/Shanghai
-          
-      
+
       - name: Download file
         run: |
           sudo mkdir -p /tmp/smartdns
           sudo chown $USER:$GROUPS /tmp/smartdns
+          rm -rf /tmp/smartdns/dnsmasq-china-list-master
           wget https://github.com/felixonmars/dnsmasq-china-list/archive/refs/heads/master.zip -O /tmp/smartdns/master.zip
           sudo unzip /tmp/smartdns/master.zip -d /tmp/smartdns/
+
       - name: Convert server to nameserver
         run: |
           cd /tmp/smartdns/dnsmasq-china-list-master
-          sudo make smartdns SERVER=cn
+          set -e
+          make smartdns SERVER=cn 2>&1 | tee make.log
+
+      - name: Upload make log
+        uses: actions/upload-artifact@v3
+        with:
+          name: make-log
+          path: /tmp/smartdns/dnsmasq-china-list-master/make.log
+
       - name: Upload to release
         uses: softprops/action-gh-release@v0.1.15
         env:
@@ -38,8 +48,8 @@ jobs:
         with:
           tag_name: smartdns-release
           files: |
-                 /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
-                 /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf
+            /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
+            /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf
 
       - name: Delete workflow runs
         uses: pianranjinghong/delete-workflow-runs@main
