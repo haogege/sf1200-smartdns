@@ -47,8 +47,8 @@ jobs:
           echo "VERSION=${VERSION}" >> $GITHUB_ENV  # 将版本号设置为环境变量
       - name: Copy generated files to repo
         run: |
-          cp /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt .
-          cp /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf .
+          cp /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt ./smartdns
+          cp /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf ./smartdns
 
       - name: Commit and push changes
         run: |
