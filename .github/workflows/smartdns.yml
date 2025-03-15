@@ -35,7 +35,7 @@ jobs:
           make smartdns SERVER=cn 2>&1 | tee make.log
 
       - name: Upload make log
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: make-log
           path: /tmp/smartdns/dnsmasq-china-list-master/make.log
