@@ -67,7 +67,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: smartdns-release
+          tag_name: smartdns-release-${{ env.VERSION }}  # 使用生成的版本号
           files: |
             /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
             /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf           
