@@ -73,7 +73,7 @@ jobs:
             /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf           
 
       - name: Delete workflow runs
-        uses: pianranjinghong/delete-workflow-runs@main
+        uses: Mattraks/delete-workflow-runs@v2
         with:
           retain_days: 7
           keep_minimum_runs: 7
