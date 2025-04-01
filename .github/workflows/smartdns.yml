@@ -72,8 +72,11 @@ jobs:
             /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
             /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf           
 
-      - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@v2
+      - name: Delete releases and workflows runs
+        uses: ophub/delete-releases-workflows@main
         with:
-          retain_days: 7
-          keep_minimum_runs: 7
+          delete_releases: true
+          releases_keep_latest: 5
+          delete_workflows: true
+          workflows_keep_day: 5
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
