@@ -44,7 +44,7 @@ jobs:
           ' | \
           awk -F/ '{print $1}' | \
           sed 's#^#nameserver /#; s#$#/gfw#' | \
-          sort -u > /tmp/smartdns/gfw.smartdns.conf
+          sort -u > /tmp/smartdns/gfwlist.smartdns.conf
 
       - name: Convert server to nameserver
         run: |
@@ -67,7 +67,7 @@ jobs:
         run: |
           cp /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt ./smartdns
           cp /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf ./smartdns
-          cp /tmp/smartdns/gfw.smartdns.conf ./smartdns
+          cp /tmp/smartdns/gfwlist.smartdns.conf ./smartdns
 
       - name: Commit and push changes
         run: |
