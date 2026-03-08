@@ -27,6 +27,24 @@ jobs:
           sudo chown $USER:$GROUPS /tmp/smartdns
           wget https://github.com/felixonmars/dnsmasq-china-list/archive/refs/heads/master.zip -O /tmp/smartdns/master.zip
           sudo unzip /tmp/smartdns/master.zip -d /tmp/smartdns/
+          curl -s https://github.com/Loukky/gfwlist-by-loukky/raw/refs/heads/master/gfwlist.txt \ | base64 -d \
+          | grep -v '^!' \
+          | grep -v '^@@' \
+          | grep -E '^\|\||^http|^[a-zA-Z0-9]' \
+          | sed -E '
+          s#^https?://##;
+          s#^ \|\|##;
+          s#/$##;
+          s#^\.##;
+          s#\|.*$##;
+          s#\^$##;
+          s#/.*$##;
+          /^$/d;
+          /^[-@!#].*$/d
+          ' \
+          | awk -F/ '{print $1}' \
+          | sed 's#^#nameserver /#; s#$#/gfw#' \
+          | sort -u > /tmp/smartdns/gfw.smartdns.conf
 
       - name: Convert server to nameserver
         run: |
@@ -71,6 +89,7 @@ jobs:
           files: |
             /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
             /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf
+            /tmp/smartdns/gfw.smartdns.conf
 
       - name: Delete releases and workflows runs
         uses: ophub/delete-releases-workflows@main
