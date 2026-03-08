@@ -67,12 +67,13 @@ jobs:
         run: |
           cp /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt ./smartdns
           cp /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf ./smartdns
+          cp /tmp/smartdns/gfw.smartdns.conf ./smartdns
 
       - name: Commit and push changes
         run: |
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
-          git add *.raw.txt *.smartdns.conf
+          git add ./smartdns/*
           if ! git diff --cached --quiet; then
             git commit -m "Update SmartDNS files - version ${{ env.VERSION }}"
             git push
@@ -87,9 +88,8 @@ jobs:
         with:
           tag_name: smartdns-release-${{ env.VERSION }}  # 使用生成的版本号
           files: |
-            /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt
-            /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf
-            /tmp/smartdns/gfw.smartdns.conf
+            smartdns/*.raw.txt
+            smartdns/*.smartdns.conf
 
       - name: Delete releases and workflows runs
         uses: ophub/delete-releases-workflows@main
