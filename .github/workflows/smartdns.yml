@@ -27,7 +27,7 @@ jobs:
           sudo chown $USER:$GROUPS /tmp/smartdns
           wget https://github.com/felixonmars/dnsmasq-china-list/archive/refs/heads/master.zip -O /tmp/smartdns/master.zip
           sudo unzip /tmp/smartdns/master.zip -d /tmp/smartdns/
-          curl -sS https://github.com/Loukky/gfwlist-by-loukky/raw/refs/heads/master/gfwlist.txt | base64 -d | \
+          curl -sS https://raw.githubusercontent.com/Loukky/gfwlist-by-loukky/refs/heads/master/gfwlist.txt | base64 -d | \
           grep -v '^!' | \
           grep -v '^@@' | \
           grep -E '^\|\||^http|^[a-zA-Z0-9]' | \
