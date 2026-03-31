@@ -69,6 +69,7 @@ jobs:
           cp /tmp/smartdns/dnsmasq-china-list-master/*.raw.txt ./smartdns
           cp /tmp/smartdns/dnsmasq-china-list-master/*.smartdns.conf ./smartdns
           cp /tmp/smartdns/gfwlist.smartdns.conf ./smartdns
+          cp /tmp/smartdns/gfwlist.raw.txt ./smartdns
 
       - name: Commit and push changes
         run: |
