@@ -43,8 +43,9 @@ jobs:
             /^[-@!#].*$/d
           ' | \
           awk -F/ '{print $1}' | \
-          sed 's#^#nameserver /#; s#$#/gfw#' | \
-          sort -u > /tmp/smartdns/gfwlist.smartdns.conf
+          sort -u | \
+          tee /tmp/smartdns/gfwlist.raw.txt | \
+          sed 's#^#nameserver /#; s#$#/gfw#' > /tmp/smartdns/gfwlist.smartdns.conf
 
       - name: Convert server to nameserver
         run: |
