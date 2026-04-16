@@ -242,6 +242,9 @@ animecrazy.net
 animeshippuuden.com
 animezilla.com
 aniscartujo.com
+annas-archive.gd
+annas-archive.gl
+annas-archive.pk
 anobii.com
 anontext.com
 anonymise.us
@@ -302,6 +305,7 @@ appspot-preview.com
 appspot.com
 appsto.re
 aptoide.com
+archive-it.org
 archive.fo
 archive.is
 archive.li
@@ -365,6 +369,7 @@ avdb.tv
 avfantasy.com
 avg.com
 avgle.com
+avistaz.to
 avjb.com
 avmoo.com
 avple.tv
@@ -788,6 +793,7 @@ cfsh99.com
 cftfc.com
 cgdepot.org
 cgst.edu
+cgw666.com
 change.org
 changeip.name
 changeip.net
@@ -1290,6 +1296,7 @@ electionsmeter.com
 elgoog.im
 elpais.com
 eltondisney.com
+emorpm.com
 empfil.com
 emule-ed2k.com
 emulefans.com
@@ -1740,6 +1747,7 @@ gmodules.com
 gnci.org.hk
 gnews.org
 go-to-zlibrary.se
+go.dev
 go.nesnode.com
 go5.dev
 goagentplus.com
@@ -3205,6 +3213,7 @@ orientaldaily.com.my
 orn.jp
 osfoora.com
 osm.tw
+osmand.net
 otcbtc.com
 otzo.com
 ourdearamy.com
@@ -3621,6 +3630,7 @@ savetibet.ru
 savetibetstore.org
 savevid.com
 sbme.me
+sbti.unun.dev
 scasino.com
 schema.org
 scieron.com
