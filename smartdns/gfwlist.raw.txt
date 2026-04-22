@@ -823,10 +823,8 @@ chinachange.org
 chinachristiantimes.com
 chinadialogue.net
 chinadigitaltimes.net
-chinaelections.org
 chinafile.com
 chinafirewalltest.com
-chinafreepress.org
 chinagate.com
 chinageeks.org
 chinagfw.org
@@ -1351,7 +1349,6 @@ eslite.com
 esmtp.biz
 etaa.org.au
 etadult.com
-etaiwannews.com
 ethermine.org
 etherscan.io
 etools.ncol.com
@@ -2841,7 +2838,6 @@ mingpaony.com
 mingpaosf.com
 mingpaotor.com
 mingpaovan.com
-mingshengbao.com
 minhhue.net
 ministrybooks.org
 minjian-danganguan.org
@@ -2859,6 +2855,7 @@ missav.live
 missav.ws
 missav123.com
 mist.vip
+mistral.ai
 mitbbs.com
 miuipolska.pl
 mixero.com
@@ -3003,7 +3000,6 @@ netflav.com
 netflix.com
 netme.cc
 netsarang.com
-netsneak.com
 network54.com
 networkedblogs.com
 networktunnel.net
@@ -3018,7 +3014,6 @@ newindianexpress.com
 newipnow.com
 newlandmagazine.com.au
 newmitbbs.com
-newnews.ca
 news.com.au
 news.ycombinator.com
 news100.com.tw
@@ -3123,7 +3118,6 @@ nyaa.eu
 nyaa.si
 nydailynews.com
 nylon-angel.com
-nylonstockingsonline.com
 nypost.com
 nyt.com
 nytchina.com
@@ -3533,6 +3527,7 @@ realcourage.org
 realraptalk.com
 realsexpass.com
 rebatesrule.net
+recordedfuture.com
 recovery.org.tw
 recoveryversion.com.tw
 redchinacn.net
@@ -3993,7 +3988,6 @@ taiwantp.net
 taiwantrip.com.tw
 taiwantt.org.tw
 taiwanus.net
-taiwanyes.com
 taiwanyes.ning.com
 talk853.com
 talkatone.com
@@ -4068,7 +4062,6 @@ thecenter.mit.edu
 thechinabeat.org
 thechinaproject.com
 thechinastory.org
-thedalailamamovie.com
 theepochtimes.com
 thefacebook.com
 thegly.com
