@@ -1464,6 +1464,8 @@ fc2web.com
 fdc64.de
 fdc64.jp
 fdc64.org
+feebee.com.tw
+feebee.tw
 feedburner.com
 feedly.com
 feedx.net
@@ -1724,6 +1726,7 @@ githubcopilot.com
 githubusercontent.com
 gizlen.net
 gjczz.com
+gjtaiwan.com
 globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
@@ -2343,6 +2346,7 @@ inkui.com
 inlang.com
 inmediahk.net
 innermongolia.org
+innovarad.tw
 inoreader.com
 inote.tw
 insecam.org
@@ -3102,6 +3106,7 @@ ntdtv.jp
 ntdtv.org
 ntdtv.ru
 ntdtvla.com
+ntl.edu.tw
 ntrfun.com
 nubiles.net
 nudezz.com
