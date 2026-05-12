@@ -1608,6 +1608,7 @@ froogle.com
 frootvpn.com
 fscked.org
 fsurf.com
+ft.com
 ftchinese.com
 ftp1.biz
 ftv.com.tw
@@ -2818,6 +2819,7 @@ mhradio.org
 miami-airport.com
 microvpn.com
 middle-way.net
+midphoto.com
 mihk.hk
 mihr.com
 mikanani.me
@@ -3302,6 +3304,7 @@ perplexity.ai
 persecutionblog.com
 persgroep.net
 persiankitty.com
+pf.org.tw
 phapluan.org
 phayul.com
 philborges.com
@@ -3459,6 +3462,7 @@ puffin.com
 puffinbrowser.com
 puffstore.com
 pullfolio.com
+pulsehknews.com
 punjab.gov.in
 punjab.gov.pk
 punyu.com
@@ -4058,6 +4062,7 @@ terabox.com
 terobox.com
 tew.org
 textnow.me
+tfc-taiwan.org.tw
 tfhub.dev
 tgstat.com
 theage.com.au
