@@ -145,6 +145,7 @@ access.pikpak.me
 access.pikpakdrive.com
 aceros-de-hispania.com
 acevpn.com
+acg.mn
 acg.rip
 acgbox.link
 acgkj.com
@@ -509,6 +510,7 @@ bjzc.org
 bktai.com
 bl-doujinsouko.com
 blackvpn.com
+bleepingcomputer.com
 blewpass.com
 blinkx.com
 blockcast.it
@@ -623,6 +625,7 @@ bookmeter.com
 books.com.tw
 booktopia.com.au
 bookwalker.jp
+boomplay.com
 bootstrapcdn.com
 bot.nu
 botanwang.com
@@ -941,6 +944,7 @@ cn.sandscotaicentral.com
 cn6.eu
 cna.com.tw
 cnbbnews.wordpress.com
+cnbc.com
 cnd.org
 cnex.org.cn
 cnineu.com
@@ -1017,6 +1021,7 @@ ctao.org
 ctee.com.tw
 ctinets.com
 ctinews.com
+ctinsider.com
 ctitv.com.tw
 cts.com.tw
 ctwant.com
@@ -1270,6 +1275,7 @@ economist.com
 ecstart.com
 edgecastcdn.net
 edicypages.com
+edigest.hk
 edns.biz
 edoors.com
 edrdg.org
@@ -1644,6 +1650,7 @@ ganjing.world
 ganjingworld.com
 gaoming.net
 gardennetworks.com
+garminmap.com
 garudalinux.org
 gate-project.com
 gate.io
@@ -2132,6 +2139,7 @@ hindustantimes.com
 hinet.net
 hitbtc.com
 hitomi.la
+hive.blog
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
 hizbuttahrir.org
@@ -2330,7 +2338,7 @@ indiatoday.in
 indiemerch.com
 indsr.org.tw
 inews-api.tvb.com
-info-graf.fr
+infosec.exchange
 infura.io
 initiativesforchina.org
 inkbunny.net
@@ -2503,6 +2511,7 @@ karayou.com
 kards.com
 karmapa-teachings.org
 karmapa.org
+kathmandupost.com
 kba-tx.org
 kbs.co.kr
 kebrum.com
@@ -2608,6 +2617,7 @@ lianyue.net
 liaowangxizang.net
 liberal.org.hk
 libertytimes.com.tw
+libgen.is
 library-access.sk
 lidecheng.com
 lifeattiktok.com
@@ -2755,6 +2765,7 @@ meansys.com
 media.org.hk
 mediachinese.com
 mediafreakcity.com
+mediamatters.org
 mediawiki.org
 medicalnewstoday.com
 medium.com
@@ -2915,6 +2926,7 @@ multiupload.com
 mummysgold.com
 murmur.tw
 muscdn.com
+music.amazon.com
 musicade.net
 musical.ly
 musixmatch.com
@@ -3018,8 +3030,10 @@ news18.com
 newsancai.com
 newsdetox.ca
 newsdh.com
+newshub.co.nz
 newstapa.org
 newstarnet.com
+newstimes.com
 newswav.com
 newtaiwan.com.tw
 newtalk.tw
@@ -3036,6 +3050,8 @@ nflximg.com
 nflximg.net
 nflxso.net
 nflxvideo.net
+nfsc.press
+nfscofficial.com
 nftstorage.link
 nga.mil
 ngensis.com
@@ -3158,6 +3174,7 @@ olevod.com
 olympicwatch.org
 omni7.jp
 omnitalk.com
+omt.garmin.com
 on.cc
 on2.com
 one.one.one.one
@@ -3214,6 +3231,7 @@ oursogo.com
 oursteps.com.au
 oursweb.net
 ourtv.hk
+overdrive.com
 overplay.net
 ow.ly
 owind.com
@@ -3279,6 +3297,7 @@ pekingduck.org
 pemulihan.or.id
 pen.io
 penchinese.com
+penguin.com.au
 penthouse.com
 pentoy.hk
 peoplebookcafe.com
@@ -3584,6 +3603,7 @@ rthk.hk
 rthk.org.hk
 rthklive2-lh.akamaihd.net
 rti.org.tw
+rts.ch
 rukor.org
 rule34.xxx
 rumble.com
@@ -4051,6 +4071,7 @@ textnow.me
 tfc-taiwan.org.tw
 tfhub.dev
 tgstat.com
+the-sun.com
 theage.com.au
 theaustralian.com.au
 theb.ai
@@ -4081,6 +4102,7 @@ thetibetconnection.org
 thetibetmuseum.org
 thetibetpost.com
 thetvdb.com
+theweek.com
 theync.com
 thinkgeek.com
 thinkhk.com
@@ -4394,6 +4416,7 @@ ukcdp.co.uk
 uku.im
 ulifestyle.com.hk
 ultravpn.fr
+umap.openstreetmap.fr
 umich.edu
 unblock-us.com
 unblock.cn.com
@@ -4419,6 +4442,7 @@ uploaded.to
 upmedia.mg
 upornia.com
 uproxy.org
+upsangel.com
 uptodown.com
 upwill.org
 ur7s.com
