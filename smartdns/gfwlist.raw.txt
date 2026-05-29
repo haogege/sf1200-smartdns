@@ -2060,6 +2060,8 @@ hacken.cc
 hacker.org
 hackmd.io
 hahlo.com
+haijiao.ai
+haijiao.com
 haiwaikan.com
 haiwaiwai.com
 hakkatv.org.tw
@@ -2143,6 +2145,7 @@ hizb-ut-tahrir.org
 hizbuttahrir.org
 hjclub.info
 hjd2048.com
+hjw01.com
 hk-pub.com
 hk01.com
 hka8964.wordpress.com
