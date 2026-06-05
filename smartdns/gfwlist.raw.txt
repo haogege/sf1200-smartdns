@@ -45,6 +45,7 @@
 233abc.com
 233v2.com
 24av.net
+24hbook.com
 25u.com
 2du5.com
 2lipstube.com
@@ -402,6 +403,7 @@ bangbrosnetwork.com
 bangchen.net
 bangdream.space
 bangumi.moe
+bangumi.tv
 bangyoulater.com
 bankmobilevibe.com
 bannedbook.org
@@ -471,6 +473,7 @@ bg-call-donation-alpha.goog
 bg-call-donation-canary.goog
 bg-call-donation-dev.goog
 bg-call-donation.goog
+bgm.tv
 bgme.me
 bgvpn.com
 biantailajiao.com
@@ -811,6 +814,7 @@ chengmingmag.com
 chenpokong.com
 chenshan20042005.wordpress.com
 chhongbi.org
+chii.in
 china-review.com.ua
 china-week.com
 china101.com
@@ -1627,6 +1631,7 @@ fxcm-chinese.com
 fzlm.com
 g-area.org
 g-desktop.ru
+g.ai
 g.co
 g.kfd.me
 g0v.social
@@ -2053,7 +2058,6 @@ h-comic.com
 h-moe.com
 h528.com
 h5dm.com
-hacg.club
 hacg.li
 hacg.me
 hacken.cc
@@ -2740,6 +2744,7 @@ martinoei.com
 martsangkagyuofficial.org
 marxist.com
 marxists.org
+mas.to
 mash.to
 maskedip.com
 mastodon.cloud
@@ -3003,6 +3008,7 @@ ndtv.com
 ned.org
 nengcard.com
 neo.com.tw
+neodb.social
 nephobox.com
 netbirds.com
 netflav.com
@@ -3407,7 +3413,6 @@ porntubenews.com
 pornvisit.com
 port25.biz
 poskotanews.com
-post01.com
 post76.com
 post852.com
 potato.im
@@ -3737,6 +3742,7 @@ showtime.jp
 shutterstock.com
 shwchurch.org
 siddharthasintent.org
+sider.ai
 sidewalklabs.com
 sierrafriendsoftibet.org
 signal.org
@@ -4734,6 +4740,7 @@ wowporn.com
 wowrk.com
 woyaolian.org
 wozy.in
+wplace.live
 wpoforum.com
 wrchina.org
 wretch.cc
