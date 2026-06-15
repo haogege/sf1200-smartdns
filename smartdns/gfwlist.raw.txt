@@ -135,6 +135,7 @@ abebooks.com
 abematv.akamaized.net
 abitno.linpie.com
 ablwang.com
+aboluowang.com
 about.gitlab.com
 about.google
 about.me
@@ -1976,6 +1977,7 @@ googleapps.com
 googlearth.com
 googleartproject.com
 googleblog.com
+googlebook.google
 googlebot.com
 googlechinawebmaster.com
 googlecode.com
@@ -3251,7 +3253,6 @@ packetix.net
 pacopacomama.com
 padmanet.com
 page2rss.com
-pages.dev
 pagodabox.com
 paimon.moe
 palacemoon.com
@@ -3270,6 +3271,7 @@ partycasino.com
 partypoker.com
 passion.com
 passiontimes.hk
+passwords.google
 paste.ee
 pastebin.com
 pastie.org
@@ -4811,7 +4813,6 @@ xn--1jqvh729avzfcy2d8ummib.com
 xn--4gq171p.com
 xn--90wwvt03e.com
 xn--czq75pvv1aj5c.org
-xn--dgtr4ppoz.com
 xn--ngstr-lra8j.com
 xn--p8j9a0d9c9a.xn--q9jyb4c
 xn--u2u927b.com
