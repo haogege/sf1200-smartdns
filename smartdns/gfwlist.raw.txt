@@ -107,6 +107,7 @@
 888.com
 8964museum.com
 8news.com.tw
+8tvnews.my
 8world.com
 91cg1.com
 91jinman.com
@@ -154,7 +155,6 @@ acgkj.com
 acmetoy.com
 acnw.com.au
 actfortibet.org
-actimes.com.au
 activpn.com
 adelaidebbs.com
 adguard-vpn.com
@@ -451,7 +451,6 @@ behance.net
 behindkink.com
 beijingspring.com
 belamionline.com
-bell.wiki
 belonging.google
 bemywife.cc
 beric.me
@@ -781,7 +780,6 @@ cdnews.com.tw
 cdninstagram.com
 cdns.com.tw
 cdp1989.org
-cdpeu.org
 cdpweb.org
 cdpwu.org
 cdw.com
@@ -1155,7 +1153,6 @@ dlsite.com
 dlyoutube.com
 dmarcnetworks.com
 dmc.nico
-dmcdn.net
 dmhy.org
 dmm.co.jp
 dmm.com
@@ -1610,6 +1607,7 @@ ft.com
 ftchinese.com
 ftp1.biz
 ftv.com.tw
+ftvnews.com.tw
 fucd.com
 fuckgfw.org
 fulione.com
@@ -2879,6 +2877,7 @@ mlzs.work
 mm-cg.com
 mmaaxx.com
 mmmca.com
+mnews.tw
 mnewstv.com
 mobile01.com
 moby.to
@@ -2902,7 +2901,6 @@ moresci.sale
 morningsun.org
 mos.ru
 mosavi.io
-motherless.com
 mousebreaker.com
 movements.org
 moviefap.com
@@ -3557,7 +3555,6 @@ redditlist.com
 redditmedia.com
 redditstatic.com
 redtube.com
-referer.us
 registry.google
 relay.com.tw
 relay.firefox.com
@@ -4015,6 +4012,7 @@ talkonly.net
 tampabay.com
 tanc.org
 tangben.com
+tantannews.com
 taoism.net
 tapatalk.com
 taup.net
@@ -4826,6 +4824,7 @@ xskywalker.com
 xt.com
 xt.pub
 xtube.com
+xuan.com.my
 xuehua.us
 xuite.net
 xvideo.cc
