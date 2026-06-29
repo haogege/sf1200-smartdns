@@ -806,6 +806,7 @@ channelnewsasia.com
 chaoex.com
 char.iis.sinica.edu.tw
 chardb.iis.sinica.edu.tw
+chat.com
 chatgpt.com
 chatnook.com
 chaturbate.com
@@ -982,7 +983,6 @@ comparitech.com
 compress.to
 congyu.moe
 conoha.jp
-contactmagazine.net
 coobay.com
 cool18.com
 coolaler.com
@@ -1010,6 +1010,7 @@ creaders.net
 creadersnet.com
 creative.myavlive.com
 crisisresponse.google
+crixet.com
 crocotube.com
 crrev.com
 crunchyroll.com
@@ -1032,7 +1033,6 @@ cumlouder.com
 cuntcrack.com
 curvefish.com
 cusu.hk
-cutscenes.net
 cw.com.tw
 cwgv.com.tw
 cyberctm.com
@@ -1418,7 +1418,6 @@ falunpilipinas.net
 families.google
 familyfed.org
 famunion.com
-fan-qiang.com
 fanbox.cc
 fandom.com
 fangeming.com
@@ -2638,7 +2637,6 @@ linglingfa.com
 lingualeo.com
 link-o-rama.com
 linkedin.com
-linkideo.com
 linksalpha.com
 linktr.ee
 linkuswell.com
@@ -4066,6 +4064,7 @@ tenor.com
 tensorflow.org
 tenzinpalmo.com
 terabox.com
+terminus2049.xyz
 terobox.com
 tew.org
 textnow.me
@@ -4314,7 +4313,6 @@ tunnelbear.com
 tunnelr.com
 tunnels.api.visualstudio.com
 tunsafe.com
-tuo8.cc
 turansam.org
 turbobit.net
 turbohide.com
@@ -4409,7 +4407,6 @@ udn.com.tw
 udnbkk.com
 udndata.com
 uforadio.com.tw
-ufreevpn.com
 ugo.com
 uhrp.org
 uighur.nl
@@ -4615,6 +4612,7 @@ washeng.net
 washingtonpost.com
 watchinese.com
 watchmygf.net
+watchpeopledie.tv
 wattpad.com
 wav.tv
 waymo.com
