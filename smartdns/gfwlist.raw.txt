@@ -1029,6 +1029,7 @@ ctinews.com
 ctinsider.com
 ctitv.com.tw
 cts.com.tw
+ctv.com.tw
 ctwant.com
 cuihua.org
 cumlouder.com
@@ -1731,6 +1732,7 @@ gjtaiwan.com
 globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
+globalnewstv.com.tw
 globalrescue.net
 globaltm.org
 globalvoices.org
@@ -2274,6 +2276,7 @@ i.111666.best
 i.lithium.com
 i.mij.rip
 i1.hk
+i24news.tv
 iam.soy
 iask.ca
 iav19.com
@@ -2308,6 +2311,7 @@ igmg.de
 ignitedetroit.net
 igotmail.com.tw
 ihakka.net
+iheart.com
 iicns.com
 ikstar.com
 ikwb.com
@@ -3151,6 +3155,7 @@ nzchinese.com
 o3o.ca
 oaistatic.com
 oaiusercontent.com
+oann.com
 observechina.net
 obutu.com
 obyte.org
@@ -3781,6 +3786,7 @@ skybet.com
 skyking.com.tw
 skykiwi.com
 skylinktv.us
+skynews.com.au
 skyvegas.com
 skyxvpn.com
 sl-reverse.com
@@ -4004,6 +4010,7 @@ taiwannation.com
 taiwannation.com.tw
 taiwanncf.org.tw
 taiwannews.com.tw
+taiwanplus.com
 taiwanstay.net.tw
 taiwantoday.tw
 taiwantp.net
@@ -4082,6 +4089,7 @@ the-sun.com
 theage.com.au
 theaustralian.com.au
 theb.ai
+theblaze.com
 thebobs.com
 thecenter.mit.edu
 thechinabeat.org
@@ -4283,6 +4291,7 @@ tron.network
 tronlink.org
 trouw.nl
 trt.net.tr
+trtworld.com
 truebuddha-md.org
 trulyergonomic.com
 trustwallet.com
@@ -4706,6 +4715,7 @@ wildammo.com
 williamhill.com
 windscribe.com
 winning11.com
+wionews.com
 wire.com
 wiredbytes.com
 wireguard.com
