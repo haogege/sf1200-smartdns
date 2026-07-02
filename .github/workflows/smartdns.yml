@@ -52,6 +52,9 @@ jobs:
           cd /tmp/smartdns/dnsmasq-china-list-master
           set -e
           sudo make smartdns SERVER=cn 2>&1 | sudo tee make.log
+          if [ -f apple.china.smartdns.conf ]; then
+            sudo sed -i 's#/cn$#/apple#g' apple.china.smartdns.conf
+          fi
 
       - name: Upload make log
         uses: actions/upload-artifact@v4
