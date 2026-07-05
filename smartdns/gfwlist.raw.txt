@@ -380,6 +380,7 @@ avmoo.com
 avple.tv
 avsox.click
 avyahoo.com
+axios.com
 azerbaycan.tv
 azurewebsites.net
 b-cdn.net
@@ -704,6 +705,7 @@ c-est-simple.com
 c-span.org
 c-spanvideo.org
 c.gle
+c.go-mpulse.net
 c.mi.com
 c100tibet.org
 c2cx.com
@@ -997,6 +999,7 @@ cos-moe.com
 costco.com
 cotweet.com
 counter.social
+courrier.jp
 coursehero.com
 coze.com
 cpj.org
@@ -1112,7 +1115,6 @@ depositphotos.com
 derpibooru.org
 design.google
 desipro.de
-destroy-china.jp
 detroitnews.com
 deutsche-welle.de
 deviantart.com
@@ -1730,6 +1732,7 @@ githubusercontent.com
 gizlen.net
 gjczz.com
 gjtaiwan.com
+globalexchange.org
 globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
@@ -3292,7 +3295,6 @@ pbs.org
 pbwiki.com
 pbxes.com
 pbxes.org
-pcanywhere.net
 pcdvd.com.tw
 pcgamestorrents.com
 pchome.com.tw
@@ -3843,7 +3845,6 @@ sopcast.org
 sora.com
 sosreader.com
 sotwe.com
-soubory.com
 soul-plus.net
 soundcloud.com
 soundofhope.kr
@@ -4454,6 +4455,7 @@ uocn.org
 up.audio
 updates.tdesktop.com
 upholdjustice.org
+upi.com
 uploaded.net
 uploaded.to
 upmedia.mg
