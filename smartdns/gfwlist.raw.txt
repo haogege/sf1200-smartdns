@@ -76,11 +76,13 @@
 51cg1.com
 51jav.org
 51luoben.com
+521danmei.com
 5278.cc
 5299.tv
 55comic.com
 5657.com.tw
 5i01.com
+60ks.info
 611study.icu
 64museum.org
 64tianwang.com
@@ -123,6 +125,7 @@
 9bis.net
 9cache.com
 9gag.com
+9marks.org
 9news.com.au
 a248.e.akamai.net
 a5.com.ru
@@ -249,6 +252,7 @@ animezilla.com
 aniscartujo.com
 annas-archive.gd
 annas-archive.gl
+annas-archive.li
 annas-archive.pk
 anobii.com
 anontext.com
@@ -328,6 +332,7 @@ arlingtoncemetery.mil
 army.mil
 art4tibet1998.org
 arte.tv
+articles.sk
 artofpeacefoundation.org
 artstation.com
 arunachalforests.gov.in
@@ -361,6 +366,7 @@ atnext.com
 atv-ext.amazon.com
 atv-ps.amazon.com
 atvnewsonline.com
+audacy.com
 authorizeddns.org
 av-e-body.com
 av.com
@@ -418,6 +424,7 @@ barenakedislam.com
 barton.de
 bartvpn.com
 bastillepost.com
+battlemetrics.com
 bayvoice.net
 bb-chat.tv
 bbc.co.uk
@@ -479,6 +486,7 @@ bg-call-donation.goog
 bgm.tv
 bgme.me
 bgvpn.com
+bi.org
 biantailajiao.com
 biblesforamerica.org
 bibox.com
@@ -634,6 +642,7 @@ boomplay.com
 bootstrapcdn.com
 bot.nu
 botanwang.com
+botasot.info
 bowenpress.com
 boxpn.com
 boxun.com
@@ -758,6 +767,7 @@ cbs.ntu.edu.tw
 cbsnews.com
 cbtc.org.hk
 cc.com
+ccbiblestudy.net
 cccat.cc
 cchere.com
 ccim.org
@@ -853,6 +863,7 @@ chinarightsia.org
 chinasmile.net
 chinasocialdemocraticparty.com
 chinasoul.org
+chinasource.org
 chinasucks.net
 chinatown.com.au
 chinaview.wordpress.com
@@ -923,6 +934,7 @@ clb.org.hk
 cleansite.biz
 clearharmony.net
 clearwisdom.net
+cli.re
 clickme.net
 clipconverter.cc
 clipfish.de
@@ -1102,8 +1114,11 @@ ddns.ms
 ddns.net
 de-sci.org
 deaftone.com
+debalie.nl
 debug.com
 deck.ly
+deep.ai
+deepai.org
 deepdiscount.com
 deepmind.com
 deepmind.google
@@ -1115,6 +1130,7 @@ depositphotos.com
 derpibooru.org
 design.google
 desipro.de
+desiringgod.org
 detroitnews.com
 deutsche-welle.de
 deviantart.com
@@ -1176,6 +1192,7 @@ dnsrd.com
 dnssec.net
 docker.com
 docker.io
+dockerhub.icu
 dockerstatus.com
 doctorvoice.org
 documentingreality.com
@@ -1222,6 +1239,7 @@ dssott.com.akamaized.net
 dstk.dk
 dtiblog.com
 dtic.mil
+dtku41.xyz
 dubox.com
 duckdns.org
 duckduckgo.com
@@ -1264,6 +1282,7 @@ earlytibet.com
 earthcam.com
 earthvpn.com
 easternlightning.org
+eastmojo.com
 eastturkestan.com
 eastturkistan-gov.org
 eastturkistan.net
@@ -1310,6 +1329,7 @@ emuparadise.me
 enanyang.my
 enca.com
 encyclopedia.com
+enduyghurforcedlabour.org
 enewstree.com
 engadget.com
 englishforeveryone.org
@@ -1488,6 +1508,7 @@ ffvpn.com
 fgmtv.net
 fgmtv.org
 fiddle.jshell.net
+fileditch.com
 fileflyer.com
 fileforum.com
 fileserve.com
@@ -1689,6 +1710,7 @@ genius.com
 geocities.co.jp
 geocities.com
 geocities.jp
+geostrategy.org.uk
 geph.io
 gerefoundation.org
 get.app
@@ -1711,6 +1733,8 @@ gettrials.com
 gettyimages.hk
 gfbv.de
 gfw.report
+gfwatch.org
+gfweb.ca
 ggjav.com
 ggpht.com
 ggssl.com
@@ -1737,6 +1761,7 @@ globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
 globalnewstv.com.tw
+globalr2p.org
 globalrescue.net
 globaltm.org
 globalvoices.org
@@ -2099,11 +2124,13 @@ hclips.com
 hdsex.org
 hdsky.me
 hdzog.com
+headtopics.com
 health.google
 heartyit.com
 heavy-r.com
 hec.su
 hecaitou.net
+hedra.com
 heeact.edu.tw
 hegre-art.com
 hegre.com
@@ -2148,6 +2175,7 @@ himalayanglacier.com
 himemix.com
 hindustantimes.com
 hinet.net
+history-maps.com
 hitbtc.com
 hitomi.la
 hive.blog
@@ -2456,6 +2484,7 @@ javtiful.com
 javtrailers.com
 jbtalks.cc
 jdwsy.com
+jendow.com.tw
 jetos.com
 jex.com
 jhelab.org
@@ -2540,6 +2569,7 @@ kex.com
 khabdha.org
 kichiku-doujinko.com
 kik.com
+killtv.me
 killwall.com
 kindleren.com
 kingdomsalvation.org
@@ -2757,6 +2787,7 @@ mastodon.cloud
 mastodon.host
 mastodon.online
 mastodon.social
+mataroa.blog
 matome-plus.com
 matome-plus.net
 matrix.org
@@ -2858,6 +2889,7 @@ mingpaony.com
 mingpaosf.com
 mingpaotor.com
 mingpaovan.com
+mingzw.net
 minhhue.net
 ministrybooks.org
 minjian-danganguan.org
@@ -2947,6 +2979,7 @@ musixmatch.com
 muslimvideo.com
 muzi.com
 muzi.net
+muzmi.org
 mvg.jp
 my-formosa.com
 my-private-network.co.uk
@@ -3057,6 +3090,7 @@ newyorktimes.com
 next11.co.jp
 nextapple.com
 nextapple.tw
+nextcli.com
 nextmag.com.tw
 nextmedia.com
 nexttv.com.tw
@@ -3090,6 +3124,7 @@ nnyy.in
 no-ip.org
 nobel.se
 nodeseek.com
+nodle.com
 noodlevpn.com
 norbulingka.org
 nordcdn.com
@@ -3097,6 +3132,9 @@ nordstrom.com
 nordstrommedia.com
 nordstromrack.com
 nordvpn.com
+nostr.build
+nostr.land
+nostr.wine
 note.com
 notebooklm.google
 notepad-plus-plus.org
@@ -3146,6 +3184,7 @@ nvtongzhisheng.org
 nwtca.org
 nyaa.eu
 nyaa.si
+nycbar.org
 nydailynews.com
 nylon-angel.com
 nypost.com
@@ -3224,6 +3263,7 @@ opendemocracy.net
 opendesktop.org
 opendn.xyz
 openleaks.org
+opensocietyfoundations.org
 opensource.google
 openstreetmap.org
 openvpn.net
@@ -3398,6 +3438,7 @@ politiscales.net
 poloniex.com
 polymarket.com
 polymerhk.com
+pop.org
 popo.tw
 popvote.hk
 popyard.com
@@ -3434,6 +3475,7 @@ pp.ru
 premeforwindows7.com
 premproxy.com
 presentationzen.com
+presentdangerchina.org
 presidentlee.tw
 pressreader.com
 prestige-av.com
@@ -3450,6 +3492,7 @@ privatetunnel.com
 privatevpn.com
 prohashing.com
 project-syndicate.org
+prosperousamerica.org
 proton.me
 protonvpn.com
 provideocoalition.com
@@ -3471,6 +3514,7 @@ psiphon3.com
 psiphontoday.com
 pstatic.net
 pts.org.tw
+ptt.best
 ptt.cc
 pttgame.com
 ptthito.com
@@ -3632,6 +3676,7 @@ s1s1s1.com
 sacks.com
 sacom.hk
 sadistic-v.com
+sadistic.pl
 sadpanda.us
 saeima.lv
 safeguarddefenders.com
@@ -3727,6 +3772,7 @@ shapeservices.com
 share.america.gov
 share.google
 sharebee.com
+sharpchina.fm
 sharpdaily.hk
 sharpdaily.tw
 shat-tibet.com
@@ -3864,12 +3910,14 @@ spatial.io
 speakerdeck.com
 speedify.com
 spendee.com
+spicychat.ai
 spideroak.com
 spiegel.de
 spike.com
 spotflux.com
 spotify.com
 spotifycdn.com
+spreadshirt.com
 spring-plus.net
 sproutcore.com
 squirly.info
@@ -3891,6 +3939,7 @@ standard.co.uk
 standupfortibet.org
 starfishfx.com
 starp2p.com
+start.me
 startpage.com
 startuplivingchina.com
 statearmor.org
@@ -4282,6 +4331,7 @@ tparents.org
 tpi.org.tw
 tracfone.com
 tradingview.com
+traditional-odb.org
 traffichaus.com
 translate.goog
 transparency.google
@@ -4327,6 +4377,7 @@ tukaani.org
 tumblr.com
 tumutanzi.com
 tumview.com
+tunebat.com
 tunnelbear.com
 tunnelr.com
 tunnels.api.visualstudio.com
@@ -4504,6 +4555,7 @@ v2ex.com
 v2fly.org
 v2ray.com
 v2raya.org
+valorantinfo.com
 van001.com
 van698.com
 vanpeople.com
@@ -4531,6 +4583,7 @@ videodetective.com
 videomega.tv
 videopediaworld.com
 videopress.com
+vidlii.com
 vietdaikynguyen.com
 vijayatemple.org
 vimeo.com
@@ -4960,6 +5013,7 @@ z-library.sk
 zacebook.com
 zalmos.com
 zamimg.com
+zanmei.ai
 zannel.com
 zaozon.com
 zapto.org
@@ -4995,6 +5049,7 @@ zinio.com
 ziporn.com
 zippyshare.com
 zkaip.com
+zmp3.cc
 zmw.cn
 zodgame.us
 zomobo.net
