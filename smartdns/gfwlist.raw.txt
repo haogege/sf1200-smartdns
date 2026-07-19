@@ -1295,7 +1295,6 @@ ebony-beauty.com
 ebook.hyread.com.tw
 ebookbrowse.com
 ebookee.com
-ebtcbank.com
 ecfa.org.tw
 echofon.com
 ecimg.tw
@@ -2452,7 +2451,6 @@ ixquick.com
 ixxx.com
 iyouport.org
 izaobao.us
-izihost.org
 izlesem.org
 j.mp
 jable.tv
@@ -2570,7 +2568,6 @@ khabdha.org
 kichiku-doujinko.com
 kik.com
 killtv.me
-killwall.com
 kindleren.com
 kingdomsalvation.org
 kinghost.com
@@ -2630,7 +2627,6 @@ lantosfoundation.org
 laogai.org
 laomiu.com
 laowang.vip
-laoyang.info
 laqingdan.net
 lastcombat.com
 lastfm.es
@@ -2989,7 +2985,6 @@ my.navy.mil
 my.pcloud.com
 my03.com
 myaudiocast.com
-mybbs.us
 mybet.com
 mycanadanow.com
 mychinanet.com
@@ -3543,7 +3538,6 @@ pximg.net
 python.com
 python.com.tw
 pythonhackers.com
-qanote.com
 qgirl.com.tw
 qhigh.com
 qi-gong.me
@@ -3583,7 +3577,6 @@ rakuten.com.tw
 rangzen.com
 rangzen.net
 rangzen.org
-ranyunfei.com
 rapbull.net
 rapidvpn.com
 rarbgprx.org
@@ -4034,6 +4027,7 @@ sylfoundation.org
 syndicatedsearch.goog
 synergyse.com
 syosetu.com
+sysub.com
 sytes.net
 sz.de
 szetowah.org.hk
