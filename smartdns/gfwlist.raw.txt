@@ -232,6 +232,7 @@ americangreencard.com
 americorps.gov
 amigobbs.net
 amitabhafoundation.us
+amnesty-usa.org
 amnesty.org
 amnesty.org.hk
 amnesty.tw
@@ -529,6 +530,7 @@ blewpass.com
 blinkx.com
 blockcast.it
 blockcn.com
+blockedbyhk.com
 blockless.com
 blocktempo.com
 blog.google
@@ -882,7 +884,6 @@ chinesen.de
 chinesenews.net.au
 chinesepen.org
 chineseupress.com
-chingcheong.com
 chinman.net
 chithu.org
 chn.chosun.com
@@ -914,6 +915,7 @@ ciciaicdn.com
 cienen.com
 cineastentreff.de
 cipfg.org
+circle19.org
 cirosantilli.com
 citizencn.com
 citizenlab.ca
@@ -1054,6 +1056,7 @@ curvefish.com
 cusu.hk
 cw.com.tw
 cwgv.com.tw
+cxense.com
 cyberctm.com
 cyberghostvpn.com
 cynscribe.com
@@ -2394,7 +2397,6 @@ inside.com.tw
 instagram.com
 institut-tibetain.org
 internet.org
-internetfreedom.org
 interseclab.org
 inthenameofconfuciusmovie.com
 invade.tw
@@ -3283,7 +3285,6 @@ ourhobby.com
 oursogo.com
 oursteps.com.au
 oursweb.net
-ourtv.hk
 overdrive.com
 overplay.net
 ow.ly
@@ -3399,7 +3400,6 @@ pinterest.nl
 pinterest.se
 pionex.com
 pipii.tv
-piraattilahti.org
 piring.com
 pittpatt.com
 pixiv.net
@@ -3408,7 +3408,6 @@ pixnet.in
 pixnet.net
 pk.com
 pki.goog
-placemix.com
 play-asia.com
 play.google
 playbeasts.com
@@ -3466,7 +3465,6 @@ potato.im
 potvpn.com
 pourquoi.tw
 powerapple.com
-powerphoto.org
 pp.ru
 premeforwindows7.com
 premproxy.com
@@ -3516,7 +3514,6 @@ pttgame.com
 ptthito.com
 pttvan.org
 pttweb.cc
-pttyes.com
 ptwxz.com
 publicpolicy.google
 pubu.com.tw
@@ -4184,7 +4181,6 @@ tiananmenduizhi.com
 tiananmenmother.org
 tiananmenuniv.com
 tiandixing.org
-tianti.io
 tiantibooks.org
 tianzhu.org
 tiava.com
@@ -4814,7 +4810,6 @@ writesonic.com
 wsimg.com
 wsj.com
 wsj.net
-wsjhk.com
 wtbn.org
 wtfpeople.com
 wufafangwen.com
@@ -5062,5 +5057,4 @@ zynamics.com
 zyns.com
 zyxel.com
 zzcartoon.com
-zzcloud.me
 zzux.com
