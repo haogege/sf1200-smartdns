@@ -921,7 +921,6 @@ citizencn.com
 citizenlab.ca
 citizenlab.org
 citizenpowerforchina.org
-citizensradio.org
 city9x.com
 civicparty.hk
 civilhrfront.org
@@ -933,7 +932,6 @@ clarionproject.org
 class.tn.edu.tw
 claude.ai
 claude.com
-clb.org.hk
 cleansite.biz
 clearharmony.net
 clearwisdom.net
@@ -1240,7 +1238,6 @@ drtuber.com
 dsmtp.com
 dssott.com
 dssott.com.akamaized.net
-dstk.dk
 dtiblog.com
 dtic.mil
 dtku41.xyz
@@ -1401,6 +1398,7 @@ expecthim.com
 expekt.com
 experts-univers.com
 exploader.net
+expressnews.com
 expressvpn.com
 extmatrix.com
 extrabux.com
@@ -1688,7 +1686,6 @@ gatecoin.com
 gather.com
 gatherproxy.com
 gaybubble.com
-gaycn.net
 gayhub.com
 gaymap.cc
 gaymenring.com
@@ -2204,7 +2201,6 @@ hkday.net
 hkdf.org
 hkej.com
 hket.com
-hkfreezone.com
 hkfront.org
 hkgalden.com
 hkgolden.com
@@ -3259,7 +3255,6 @@ openai.com
 opencritic.com
 opendemocracy.net
 opendesktop.org
-opendn.xyz
 openleaks.org
 opensocietyfoundations.org
 opensource.google
@@ -3916,7 +3911,6 @@ squirly.info
 srcf.ucam.org
 sre.google
 ss-link.com
-ss.pythonic.life
 ssglobal.co
 sspanel.net
 sspanel.org
@@ -4404,7 +4398,6 @@ tweetboard.com
 tweetcs.com
 tweetdeck.com
 tweetedtimes.com
-tweetmylast.fm
 tweetphoto.com
 tweetree.com
 tweettunnel.com
@@ -4713,7 +4706,6 @@ weitt.us
 welovecock.com
 wemigrate.org
 wengewang.com
-wengewang.org
 wenxuecity.com
 wenyunchao.com
 wenzhao.ca
