@@ -640,6 +640,7 @@ booklive.jp
 bookmeter.com
 books.com.tw
 booktopia.com.au
+bookwalker.com.tw
 bookwalker.jp
 boomplay.com
 bootstrapcdn.com
@@ -1592,6 +1593,7 @@ freehongkong.org
 freeilhamtohti.org
 freelotto.com
 freeman2.com
+freemdict.com
 freemoren.com
 freenet-china.org
 freenetproject.org
@@ -2945,6 +2947,7 @@ movements.org
 moviefap.com
 mp3ye.eu
 mpfinance.com
+mphonline.com
 mpinews.com
 mrbasic.com
 mrbonus.com
@@ -3256,6 +3259,7 @@ opencritic.com
 opendemocracy.net
 opendesktop.org
 openleaks.org
+openlibrary.org
 opensocietyfoundations.org
 opensource.google
 openstreetmap.org
@@ -4533,7 +4537,6 @@ uyghurcongress.org
 uyghurensemble.co.uk
 uyghurpress.com
 uyghurstudies.org
-uygur.org
 uymaarip.com
 v2board.com
 v2ex.com
@@ -5013,7 +5016,6 @@ zergpool.com
 zeronet.io
 zeutch.com
 zh.bitterwinter.org
-zhangboli.net
 zhangtianliang.com
 zhanlve.org
 zhao.1984.city
