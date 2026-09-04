@@ -265,7 +265,6 @@ anonymouse.org
 anpopo.com
 answering-islam.org
 anthropic.com
-antichristendom.com
 antigravity.google
 antisocial.science
 antiwave.net
@@ -859,7 +858,6 @@ chinalaborwatch.org
 chinalawandpolicy.com
 chinalawtranslate.com
 chinamule.com
-chinamz.org
 chinanewscenter.com
 chinapost.com.tw
 chinapress.com.my
@@ -1245,7 +1243,6 @@ dtku41.xyz
 dubox.com
 duckdns.org
 duckduckgo.com
-duckmylife.com
 dudupro.com
 duga.jp
 duihua.org
@@ -1313,7 +1310,6 @@ edupro.org
 eevpn.com
 efcc.org.hk
 effers.com
-efksoft.com
 efreenews.com
 efukt.com
 eic-av.com
@@ -2354,7 +2350,6 @@ imagefap.com
 imageflea.com
 imageglass.org
 imagevenue.com
-imagezilla.net
 imago-images.com
 imb.org
 imds-api.com
@@ -2576,7 +2571,6 @@ kink.com
 kinmen.org.tw
 kinokuniya.com
 kir.jp
-kissbbao.cn
 kissjav.com
 kk-whys.co.jp
 kkbox.com
@@ -2597,6 +2591,7 @@ kraken.com
 krtc.com.tw
 krtco.com.tw
 ksdl.org
+ksml.edu.tw
 ksnews.com.tw
 ktzhk.com
 kuai.media
@@ -2912,7 +2907,6 @@ mixpod.com
 mixx.com
 mjj.today
 mjlsh.usc.cuhk.edu.hk
-mk5000.com
 mlcool.com
 mlzs.work
 mm-cg.com
@@ -3121,7 +3115,6 @@ no-ip.org
 nobel.se
 nodeseek.com
 nodle.com
-noodlevpn.com
 norbulingka.org
 nordcdn.com
 nordstrom.com
@@ -3132,6 +3125,7 @@ nostr.build
 nostr.land
 nostr.wine
 note.com
+note.ms
 notebooklm.google
 notepad-plus-plus.org
 notify.dropboxapi.com
@@ -3974,7 +3968,6 @@ streema.com
 strikingly.com
 stripchat.cam
 strongvpn.com
-strongwindpress.com
 student.tw
 studentsforafreetibet.org
 studybuddhism.com
@@ -4156,7 +4149,6 @@ thestandnews.com
 thestar.com
 thetatoken.org
 thetibetcenter.org
-thetibetconnection.org
 thetibetmuseum.org
 thetibetpost.com
 thetvdb.com
@@ -4739,7 +4731,6 @@ wiki.esu.im
 wiki.kfd.me
 wikibooks.org
 wikidata.org
-wikileaks-forum.com
 wikileaks.ch
 wikileaks.com
 wikileaks.de
@@ -5018,7 +5009,6 @@ zeutch.com
 zh.bitterwinter.org
 zhangtianliang.com
 zhanlve.org
-zhao.1984.city
 zhenghui.org
 zhengjian.org
 zhengwunet.org
