@@ -32,6 +32,7 @@
 1eew.com
 1lib.domains
 1lib.sk
+1point3acres.com
 1pondo.tv
 2-hand.info
 2008xianzhang.info
@@ -118,7 +119,6 @@
 91porn.com
 91porna.com
 91porny.com
-91vps.club
 991.com
 996.icu
 99cn.info
@@ -669,7 +669,6 @@ briian.com
 brizzly.com
 broadbook.com
 broadpressinc.com
-brockbbs.com
 brucewang.net
 brutaltgp.com
 bsky.app
@@ -682,7 +681,6 @@ btdigg.org
 btku.org
 btloader.com
 btspread.com
-btsynckeys.com
 budaedu.org
 buddhistchannel.tv
 buffered.com
@@ -859,6 +857,7 @@ chinalawandpolicy.com
 chinalawtranslate.com
 chinamule.com
 chinanewscenter.com
+chinanewsx.com
 chinapost.com.tw
 chinapress.com.my
 chinarightsia.org
@@ -1015,7 +1014,6 @@ courrier.jp
 coursehero.com
 coze.com
 cpj.org
-cq99.us
 crackle.com
 crashlytics.com
 crazys.cc
@@ -1527,7 +1525,6 @@ firebaseio.com
 fireofliberty.org
 firetweet.io
 firstfivefollowers.com
-firstory.io
 firstpost.com
 firstrade.com
 flagsonline.it
@@ -1572,7 +1569,6 @@ freealim.com
 freebearblog.org
 freebrowser.org
 freechina.net
-freechina.news
 freeddns.com
 freeddns.org
 freedom.gov
@@ -1643,7 +1639,6 @@ fuq.com
 furhhdl.org
 furinkan.com
 furrybar.com
-futurechinaforum.org
 fux.com
 fuyin.net
 fuyindiantai.org
@@ -1697,7 +1692,6 @@ gcpnews.com
 gcr.io
 gdaily.org
 gdbt.net
-gdzf.org
 geek-art.net
 gekikame.com
 gelbooru.com
@@ -2058,7 +2052,6 @@ greatfirewall.biz
 greatfirewallofchina.org
 greenparty.org.tw
 greenpeace.com.tw
-greenvpn.net
 grindr.com
 grok.com
 grokipedia.com
@@ -2134,7 +2127,6 @@ hegre-art.com
 hegre.com
 helloandroid.com
 helloavgirls.com
-helloqueer.com
 hellotxt.com
 hellouk.org
 helpeachpeople.com
@@ -2397,6 +2389,7 @@ investigating.wordpress.com
 inxian.com
 io.google
 iopenmall.tw
+ipaddress.my
 ipdefenseforum.com
 ipfire.org
 ipfs.io
@@ -2426,7 +2419,6 @@ issuu.com
 istef.info
 istiqlalhewer.com
 istockphoto.com
-isunaffairs.com
 isuntv.com
 italiatibet.org
 itasoftware.com
@@ -2970,7 +2962,6 @@ musixmatch.com
 muslimvideo.com
 muzi.com
 muzi.net
-muzmi.org
 mvg.jp
 my-formosa.com
 my-private-network.co.uk
@@ -3076,6 +3067,7 @@ newstimes.com
 newswav.com
 newtaiwan.com.tw
 newtalk.tw
+newyorker.com
 newyorktimes.com
 next11.co.jp
 nextapple.com
@@ -3121,6 +3113,7 @@ nordstrom.com
 nordstrommedia.com
 nordstromrack.com
 nordvpn.com
+nordwangluo.com
 nostr.build
 nostr.land
 nostr.wine
@@ -3455,7 +3448,6 @@ poskotanews.com
 post76.com
 post852.com
 potato.im
-potvpn.com
 pourquoi.tw
 powerapple.com
 pp.ru
@@ -3489,7 +3481,6 @@ proxifier.com
 proxlet.com
 proxpn.com
 proxy.org
-proxy1.xyz
 proxyanonimo.es
 proxydns.com
 proxynetwork.org.uk
@@ -3520,6 +3511,7 @@ punjab.gov.pk
 punyu.com
 pureinsight.org
 purevpn.com
+purevpn.com.tw
 purplelotus.org
 pursuestar.com
 pussyspace.com
@@ -4298,7 +4290,6 @@ tor.eff.org
 tor.updatestar.com
 torguard.net
 torproject.org
-torrentgalaxy.to
 torrentprivacy.com
 torrentz.eu
 tortoisesvn.net
@@ -4481,7 +4472,6 @@ uniswap.org
 unix100.com
 unodedos.com
 unpo.org
-unseen.is
 unwire.hk
 uocn.org
 up.audio
@@ -4542,6 +4532,7 @@ vanpeople.com
 vansky.com
 vaticannews.va
 vatn.org
+vava8.com
 vct.news
 vegasred.com
 velkaepocha.sk
@@ -4568,7 +4559,6 @@ vietdaikynguyen.com
 vijayatemple.org
 vimeo.com
 vimeocdn.com
-vincnd.com
 vine.co
 vip-enterprise.com
 virtualrealporn.com
@@ -4670,7 +4660,6 @@ wattpad.com
 wav.tv
 waymo.com
 waze.com
-wdf5.com
 wealth.com.tw
 wearehairy.com
 wearn.com
@@ -4809,6 +4798,7 @@ www.clashverge.dev
 www.hoyolab.com
 www.websnapr.com
 www1.biz
+www3.nhk.or.jp
 wxw.cat
 wxw.moe
 x-art.com
@@ -4830,7 +4820,6 @@ xcritic.com
 xda-developers.com
 xdaforums.com
 xerotica.com
-xfiles.to
 xgmyd.com
 xhamster.com
 xhcdn.com
@@ -4902,6 +4891,7 @@ yahoo.com.tw
 yahoo.net
 yahooinc.com
 yahoosandbox.com
+yam.com
 yam.org.tw
 yande.re
 yanghengjun.com
