@@ -628,6 +628,7 @@ bnn.co
 bntrace.com
 bod.asia
 bodog88.com
+bodu365.co
 bolehvpn.net
 bonbonme.com
 bonfoundation.org
@@ -1024,6 +1025,7 @@ crd-net.org
 creaders.net
 creadersnet.com
 creative.myavlive.com
+creators.google
 crisisresponse.google
 crixet.com
 crocotube.com
@@ -1579,7 +1581,6 @@ freedomsherald.org
 freefq.com
 freefuckvids.com
 freegao.com
-freegpt.es
 freegpt.tech
 freehongkong.org
 freeilhamtohti.org
@@ -3120,6 +3121,7 @@ nostr.land
 nostr.wine
 note.com
 note.ms
+notebook.google
 notebooklm.google
 notepad-plus-plus.org
 notify.dropboxapi.com
@@ -3681,6 +3683,7 @@ savevid.com
 sbme.me
 sbti.unun.dev
 scasino.com
+scdaily.com
 schema.org
 scieron.com
 sclub.com.tw
@@ -4327,7 +4330,6 @@ tsctv.net
 tsemtulku.com
 tsquare.tv
 tssdnews.com.tw
-tsu.org.tw
 tt1069.com
 tttan.com
 ttv.com.tw
