@@ -929,6 +929,7 @@ civitai.com
 ck101.com
 clarionproject.org
 class.tn.edu.tw
+clau.de
 claude.ai
 claude.com
 cleansite.biz
@@ -3347,7 +3348,6 @@ peoplenews.tw
 peopo.org
 percy.in
 perfectgirls.net
-perfectvpn.net
 periscope.tv
 perplexity.ai
 persecutionblog.com
@@ -3393,7 +3393,6 @@ piring.com
 pittpatt.com
 pixiv.net
 pixiv.org
-pixnet.in
 pixnet.net
 pk.com
 pki.goog
@@ -4880,7 +4879,6 @@ xxlmovies.com
 xxuz.com
 xxx.com
 xxx.xxx
-xxxfuckmom.com
 xxxx.com.au
 xxxy.info
 xxxymovies.com
@@ -4986,6 +4984,7 @@ zalmos.com
 zamimg.com
 zanmei.ai
 zannel.com
+zaochenbao.com
 zaozon.com
 zapto.org
 zb.com
@@ -5002,7 +5001,6 @@ zeutch.com
 zh.bitterwinter.org
 zhangtianliang.com
 zhanlve.org
-zhenghui.org
 zhengjian.org
 zhengwunet.org
 zhenxiang.biz
