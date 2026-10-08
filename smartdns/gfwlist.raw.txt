@@ -494,6 +494,7 @@ bibox.com
 bidswitch.net
 big.one
 bigfools.com
+biggo.com
 biggo.com.tw
 bignews.org
 bignewsnetwork.com
@@ -2884,6 +2885,7 @@ minzhuzhongguo.org
 miraheze.org
 mirror.xyz
 mirrorbooks.com
+mirrordaily.news
 mirrormedia.com.tw
 mirrormedia.mg
 mirrormediagroup.com
@@ -2949,6 +2951,7 @@ msguancha.com
 msha.gov
 mstdn.social
 mswe1.org
+mtgamer.com
 mtzfile.pw
 mubi.com
 muchosucko.com
@@ -4027,6 +4030,7 @@ tafm.org
 tagesschau.de
 tagwalk.com
 taipeitimes.com
+taisounds.com
 taiwan-sex.com
 taiwanbible.com
 taiwancon.com
@@ -4148,6 +4152,7 @@ thetibetmuseum.org
 thetibetpost.com
 thetvdb.com
 theweek.com
+thewitnesshk.com
 theync.com
 thinkgeek.com
 thinkhk.com
