@@ -103,6 +103,7 @@
 7cow.com
 7mmtv.sx
 7mmtv.tv
+7x24hrs.com
 8-d.com
 85cc.net
 85cc.us
@@ -181,6 +182,7 @@ agoogleaday.com
 ai.google
 ai.ls
 ai.studio
+aihub.top
 aiph.net
 airitilibrary.com
 airvpn.org
@@ -297,7 +299,6 @@ api.steampowered.com
 apigee.com
 apk-dl.com
 apk.tw
-apkcombo.com
 apkmirror.com
 apkmonk.com
 apkplz.com
@@ -424,6 +425,7 @@ baramangaonline.com
 barenakedislam.com
 barton.de
 bartvpn.com
+basemaps.arcgis.com
 bastillepost.com
 battlemetrics.com
 bayvoice.net
@@ -667,6 +669,7 @@ breakgfw.com
 breaking911.com
 breakingtweets.com
 breakwall.net
+briarproject.org
 briian.com
 brizzly.com
 broadbook.com
@@ -825,6 +828,7 @@ char.iis.sinica.edu.tw
 chardb.iis.sinica.edu.tw
 chat.com
 chatgpt.com
+chatgpt.site
 chatnook.com
 chaturbate.com
 chengmingmag.com
@@ -837,7 +841,6 @@ china-week.com
 china101.com
 china21.org
 china5000.us
-chinaaffairs.org
 chinaaid.net
 chinaaid.org
 chinaaid.us
@@ -1006,7 +1009,6 @@ cool18.com
 coolaler.com
 coolder.com
 coolloud.org.tw
-coolncute.com
 coolstuffinc.com
 copilot.microsoft.com
 cos-moe.com
@@ -1146,7 +1148,6 @@ dfn.org
 dharamsalanet.com
 dharmakara.net
 dhcp.biz
-diaoyuislands.org
 difangwenge.org
 digg.com
 digisfera.com
@@ -1395,6 +1396,7 @@ exmormon.org
 expatshield.com
 expecthim.com
 expekt.com
+experience.arcgis.com
 experts-univers.com
 exploader.net
 expressnews.com
@@ -1644,6 +1646,7 @@ furinkan.com
 furrybar.com
 fux.com
 fuyin.net
+fuyin116.com
 fuyindiantai.org
 fuyu.org.tw
 fw.cm
@@ -1654,7 +1657,6 @@ g-area.org
 g-desktop.ru
 g.ai
 g.co
-g.kfd.me
 g0v.social
 g6hentai.com
 gab.com
@@ -2169,6 +2171,7 @@ himemix.com
 hindustantimes.com
 hinet.net
 history-maps.com
+historylines.net
 hitbtc.com
 hitomi.la
 hive.blog
@@ -2255,7 +2258,6 @@ hsselite.com
 hst.net.tw
 hstern.net
 hstt.net
-htkou.net
 htl.li
 htx.com
 huaglad.com
@@ -2454,7 +2456,6 @@ jav.com
 jav321.com
 jav777.cc
 javakiba.org
-javbus.co
 javbus.com
 javbus.sbs
 javchu.com
@@ -2567,6 +2568,7 @@ kinmen.org.tw
 kinokuniya.com
 kir.jp
 kissjav.com
+kiwix.org
 kk-whys.co.jp
 kkbox.com
 kmuh.org.tw
@@ -2671,6 +2673,7 @@ linktr.ee
 linkuswell.com
 linux.do
 linux.org.hk
+linux.sb
 linuxtoy.org
 lionsroar.com
 lipuman.com
@@ -2688,6 +2691,7 @@ liveleak.com
 livestation.com
 livestream.com
 livevideo.com
+livingatlas.arcgis.com
 livingstream.com
 lizhizhuangbi.com
 lmarena.ai
@@ -2788,6 +2792,7 @@ mbct.mlc.edu.tw
 mc.yandex.ru
 mcadforums.com
 mcaf.ee
+mceindex.com
 mcfog.com
 mcusercontent.com
 me.me
@@ -2835,6 +2840,7 @@ mesotw.com
 messenger.com
 meta.ai
 meta.com
+metaaivm.com
 metacafe.com
 metacubex.one
 metart.com
@@ -2961,6 +2967,7 @@ multiupload.com
 mummysgold.com
 murmur.tw
 muscdn.com
+muse.ai
 music.amazon.com
 musicade.net
 musical.ly
@@ -3214,6 +3221,7 @@ okinawatimes.co.jp
 oklink.com
 okx.com
 old.honeynet.org
+oldmapsonline.org
 olehdtv.com
 olelive.com
 olemovienews.com
@@ -3418,7 +3426,6 @@ poe.com
 points-media.com
 pokerstars.com
 pokerstars.net
-politicalchina.org
 politico.eu
 politiscales.net
 poloniex.com
@@ -3501,7 +3508,6 @@ ptt.best
 ptt.cc
 pttgame.com
 ptthito.com
-pttvan.org
 pttweb.cc
 ptwxz.com
 publicpolicy.google
@@ -3525,7 +3531,6 @@ puuko.com
 pximg.net
 python.com
 python.com.tw
-pythonhackers.com
 qgirl.com.tw
 qhigh.com
 qi-gong.me
@@ -3538,6 +3543,7 @@ qoos.com
 qpoe.com
 qstatus.com
 qtrac.eu
+quakemachinex.com
 quantumai.google
 questvisual.com
 quitccp.org
@@ -3682,6 +3688,7 @@ savetibet.org
 savetibet.ru
 savetibetstore.org
 savevid.com
+sb.sb
 sbme.me
 sbti.unun.dev
 scasino.com
@@ -3777,6 +3784,7 @@ shopee.tw
 shopping.com
 showhaotu.com
 showtime.jp
+shuaiapi.com
 shutterstock.com
 shwchurch.org
 siddharthasintent.org
@@ -3846,7 +3854,6 @@ snowlionpub.com
 soav.com
 soc.mil
 social.datalabour.com
-social.edu.ci
 socialism.hk
 socks-proxy.net
 sockscap64.com
@@ -4480,7 +4487,6 @@ unix100.com
 unodedos.com
 unpo.org
 unwire.hk
-uocn.org
 up.audio
 updates.tdesktop.com
 upholdjustice.org
@@ -4746,6 +4752,7 @@ wiktionary.org
 wildammo.com
 williamhill.com
 windscribe.com
+windy.com
 winning11.com
 wionews.com
 wire.com
@@ -4788,6 +4795,7 @@ wplace.live
 wpoforum.com
 wrchina.org
 wretch.cc
+write.as
 writesonic.com
 wsimg.com
 wsj.com
@@ -4880,7 +4888,6 @@ xvideos.com
 xvideos.es
 xvideos2.com
 xvideos3.com
-xxlmovies.com
 xxuz.com
 xxx.com
 xxx.xxx
