@@ -199,7 +199,6 @@ akinator.com
 akow.org
 al-islam.com
 alabout.com
-alanhou.com
 alarab.qa
 alasbarricadas.org
 alforattv.net
@@ -540,7 +539,6 @@ blog.pathtosharepoint.com
 blog.sogoo.org
 blogblog.com
 blogcatalog.com
-blogcity.me
 blogdns.org
 blogger.com
 blogimg.jp
@@ -1355,7 +1353,6 @@ epochtimes.jp
 epochtimes.ru
 epochtimes.se
 epochtimestr.com
-epochweek.com
 epochweekly.com
 eporner.com
 eprice.com.hk
@@ -1522,7 +1519,6 @@ finchvpn.com
 findbooks.info
 findmespot.com
 findresultsquick.com
-findyoutube.com
 findyoutube.net
 fingerdaily.com
 finler.net
@@ -1533,6 +1529,7 @@ firetweet.io
 firstfivefollowers.com
 firstpost.com
 firstrade.com
+fish.audio
 flagsonline.it
 fleshbot.com
 flgjustice.org
@@ -1591,7 +1588,6 @@ freeilhamtohti.org
 freelotto.com
 freeman2.com
 freemdict.com
-freemoren.com
 freenet-china.org
 freenetproject.org
 freenuts.com
@@ -2818,7 +2814,6 @@ megalodon.jp
 megaproxy.com
 megarotic.com
 megavideo.com
-megurineluka.com
 melon365.com
 meltoday.com
 memehk.com
@@ -3022,7 +3017,6 @@ nabo.go.kr
 nakido.com
 nakuz.com
 namgyal.org
-namgyalmonastery.org
 namu.wiki
 nandazhan.com
 nanhuyt.com
@@ -3281,7 +3275,6 @@ osm.tw
 osmand.net
 otcbtc.com
 otzo.com
-ourdearamy.com
 ourhobby.com
 oursogo.com
 oursteps.com.au
@@ -4071,7 +4064,6 @@ taoism.net
 tapatalk.com
 taup.net
 taweet.com
-tbi.org.hk
 tbjyt.org
 tbrc.org
 tbs-rainbow.org
@@ -4411,7 +4403,6 @@ twibble.de
 twibs.com
 twicsy.com
 twiends.com
-twifan.com
 twilog.org
 twimbow.com
 twimg.com
@@ -4522,7 +4513,6 @@ utopianpal.com
 uukanshu.com
 uvwxyz.xyz
 uwants.com
-uwants.net
 uyghur-archive.com
 uyghur-j.org
 uyghur.co.uk
@@ -4619,7 +4609,6 @@ vpngate.jp
 vpngate.net
 vpngratis.net
 vpnhq.com
-vpninja.net
 vpnintouch.com
 vpnjack.com
 vpnmaster.com
@@ -4858,7 +4847,6 @@ xiuren.org
 xizang-zhiye.org
 xjp.cc
 xm.com
-xmart.tw
 xmonk.net
 xn--11xs86f.icu
 xn--1jqvh729avzfcy2d8ummib.com
@@ -4926,7 +4914,6 @@ yesasia.com
 yesasia.com.hk
 yespornplease.com
 yeyeclub.com
-yfsp.tv
 ygto.com
 yhcw.net
 yibaochina.com
